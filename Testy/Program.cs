@@ -10,6 +10,7 @@ namespace Testy
     {
         static void Main(string[] args)
         {
+            asd;
         }
     }
 }
